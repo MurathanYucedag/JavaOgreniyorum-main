@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaTekrar {
+public class RememberJava {
 
     public static void main(String[] args) {
 
@@ -13,6 +13,5 @@ public class JavaTekrar {
 
         if (number % 2 == 0)
             System.out.println("HiEven");
-
     }
 }
