@@ -4,13 +4,13 @@ public class OrderTwoCities {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter the first country: ");
+        System.out.println("Enter the first city: ");
         String city1 = scanner.nextLine();
 
-        System.out.println("Enter the second country: ");
+        System.out.println("Enter the second city: ");
         String city2 = scanner.nextLine();
 
-        System.out.println("Enter the third country: ");
+        System.out.println("Enter the third city: ");
         String city3 = scanner.nextLine();
 
         String temp = "";
